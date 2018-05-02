@@ -33,7 +33,7 @@ Colorscheme has been tested on Neovim v0.2.2.
 
 **Font:** InconsolataGO Nerd Font Complete
 
-**Plugins:** 
+**Plugins:**
 * vim-devicons
 * nerdtree
 * vim-airline (with `bubblegum` theme and powerline fonts)
@@ -50,7 +50,7 @@ Colorscheme has been tested on Neovim v0.2.2.
 
 Everyone interacting in the  project’s codebases and issue trackers is expected
 to follow the
-[code of conduct](https://github.com/aradunovic/perun/blob/master/CODE_OF_CONDUCT.md).
+[code of conduct](https://github.com/aradunovic/perun.vim/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
