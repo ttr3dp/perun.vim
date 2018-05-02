@@ -2,7 +2,7 @@
 
 Vim/Neovim **GUI only** colorscheme based on the default `desert.vim`.
 
-![VIM](screenshots/vim.png)
+![VIM](https://raw.githubusercontent.com/aradunovic/perun.vim/master/screenshots/vim.png)
 
 ## Installation
 
@@ -40,11 +40,11 @@ Colorscheme has been tested on Neovim v0.2.2.
 
 ### Ruby
 
-![Ruby](screenshots/ruby.png)
+![Ruby](https://raw.githubusercontent.com/aradunovic/perun.vim/master/screenshots/ruby.png)
 
 ### CSS
 
-![CSS](screenshots/css.png)
+![CSS](https://raw.githubusercontent.com/aradunovic/perun.vim/master/screenshots/css.png)
 
 ## Code of Conduct
 
