@@ -2,9 +2,42 @@
 
 Vim/Neovim **GUI only** colorscheme based on the default `desert.vim`.
 
+![Logo][screenshots/vim.png]
+
+## Installation
+
+With package manager:
+
+```viml
+" vim-plug
+Plug 'aradunovic/perun'
+
+" NeoBundle
+NeoBundle 'aradunovic/perun'
+
+" Vundle
+Plugin 'aradunovic/perun'
+```
+
+Or manually, by placing `colors/perun.vim` in your `~/.vim/colors/` directory.
+
+```viml
+colorscheme perun
+```
+
 ## Compatibility
 
 Colorscheme has been tested on Neovim v0.2.2.
+
+## Screenshots
+
+### Ruby
+
+![Ruby](screenshots/ruby.png)
+
+### CSS
+
+![CSS](screenshots/css.png)
 
 ## Code of Conduct
 
