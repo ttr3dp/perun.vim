@@ -10,13 +10,13 @@ With package manager:
 
 ```viml
 " vim-plug
-Plug 'aradunovic/perun'
+Plug 'aradunovic/perun.vim'
 
 " NeoBundle
-NeoBundle 'aradunovic/perun'
+NeoBundle 'aradunovic/perun.vim'
 
 " Vundle
-Plugin 'aradunovic/perun'
+Plugin 'aradunovic/perun.vim'
 ```
 
 Or manually, by placing `colors/perun.vim` in your `~/.vim/colors/` directory.
