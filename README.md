@@ -2,7 +2,7 @@
 
 Vim/Neovim **GUI only** colorscheme based on the default `desert.vim`.
 
-![Logo][screenshots/vim.png]
+![VIM](screenshots/vim.png)
 
 ## Installation
 
@@ -30,6 +30,13 @@ colorscheme perun
 Colorscheme has been tested on Neovim v0.2.2.
 
 ## Screenshots
+
+**Font:** InconsolataGO Nerd Font Complete
+
+**Plugins:** 
+* vim-devicons
+* nerdtree
+* vim-airline (with `bubblegum` theme and powerline fonts)
 
 ### Ruby
 
