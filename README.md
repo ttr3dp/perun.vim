@@ -26,7 +26,12 @@ Place `colors/perun.vim` in your `<vim-config-dir>/colors/` directory.
 ### Set colorscheme
 ```viml
 colorscheme perun
+
+" neovim
+set termguicolors
 ```
+
+**NOTE:** Ensure that your terminal emulator supports true color. - [More info](https://github.com/neovim/neovim/wiki/FAQ#how-can-i-use-true-color-in-the-terminal)
 
 ## Compatibility
 
