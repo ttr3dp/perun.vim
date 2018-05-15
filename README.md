@@ -37,7 +37,7 @@ set termguicolors
 
 perun.vim has been tested on Neovim v0.2.2.
 
-## Terminal support
+## Terminal colors
 
 Take a look inside [`terminal`](https://github.com/aradunovic/perun.vim/tree/master/terminal) directory.
 
