@@ -35,7 +35,7 @@ set termguicolors
 
 ## Compatibility
 
-perun.vim has been tested on Neovim v0.2.2.
+perun.vim has been tested on Neovim >= v0.2.2.
 
 ## Terminal colors
 
