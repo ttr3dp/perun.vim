@@ -19,8 +19,6 @@ highlight Folded guibg=#404040 guifg=#6b6a61
 highlight LineNr guifg=#4d4d4d gui=italic
 " Sign column
 highlight SignColumn guibg=#262626 guifg=#4d4d4d gui=italic
-" Cursor column
-highlight CursorColumn guibg=#404040 guifg=NONE
 " Vertical split
 highlight VertSplit guibg=NONE guifg=#afaa58
 " Search
@@ -36,7 +34,9 @@ highlight NonText guibg=NONE guifg=#333333
 " Color column (margin)
 highlight ColorColumn guibg=#262626
 " Cursor line
-highlight CursorLine guibg=#404040
+highlight CursorLine guibg=#404040 guifg=NONE
+" Cursor column
+highlight link CursorColumn CursorLine
 " Error
 highlight Error guibg=#af5a5a
 highlight link ErrorMsg Error
