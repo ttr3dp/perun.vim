@@ -36,7 +36,8 @@ highlight ColorColumn guibg=#262626
 " Cursor line
 highlight CursorLine guibg=#404040 guifg=NONE
 " Cursor column
-highlight link CursorColumn CursorLine
+" '!' is necessary because of https://github.com/neovim/neovim/issues/4549
+highlight! link CursorColumn CursorLine
 " Error
 highlight Error guibg=#af5a5a
 highlight link ErrorMsg Error
