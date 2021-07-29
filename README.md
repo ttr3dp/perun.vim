@@ -2,7 +2,7 @@
 
 Neovim (Vim GUI only) colorscheme based on the default `desert.vim`.
 
-![VIM](https://raw.githubusercontent.com/aradunovic/perun.vim/master/screenshots/vim.png)
+![VIM](https://raw.githubusercontent.com/ttr3dp/perun.vim/master/screenshots/vim.png)
 
 ## Installation
 
@@ -39,7 +39,7 @@ perun.vim has been tested on Neovim >= v0.2.2.
 
 ## Terminal colors
 
-Take a look inside [`terminal`](https://github.com/aradunovic/perun.vim/tree/master/terminal) directory.
+Take a look inside [`terminal`](https://github.com/ttr3dp/perun.vim/tree/master/terminal) directory.
 
 ## Screenshots
 
@@ -52,17 +52,17 @@ Take a look inside [`terminal`](https://github.com/aradunovic/perun.vim/tree/mas
 
 ### Ruby
 
-![Ruby](https://raw.githubusercontent.com/aradunovic/perun.vim/master/screenshots/ruby.png)
+![Ruby](https://raw.githubusercontent.com/ttr3dp/perun.vim/master/screenshots/ruby.png)
 
 ### CSS
 
-![CSS](https://raw.githubusercontent.com/aradunovic/perun.vim/master/screenshots/css.png)
+![CSS](https://raw.githubusercontent.com/ttr3dp/perun.vim/master/screenshots/css.png)
 
 ## Code of Conduct
 
 Everyone interacting in the  project’s codebases and issue trackers is expected
 to follow the
-[code of conduct](https://github.com/aradunovic/perun.vim/blob/master/CODE_OF_CONDUCT.md).
+[code of conduct](https://github.com/ttr3dp/perun.vim/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
